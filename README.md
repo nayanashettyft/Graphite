@@ -1,5 +1,5 @@
 
-#Some sample code for pushing metrics to graphite.
+## Some sample code for pushing metrics to graphite.
 
 We will need a valid graphite URL/ server address {graphiteURL} and a UUID which is a WRITE APIKey to push metrics to graphite.
 
